@@ -3,12 +3,11 @@
 The page was created as part of the [Front End Developer Course by Orange DC](https://digitalcenter.orange.md/).
 
 ## Table of contents
-
--[Screenshot](#screenshot)
--[Links](#links)
--[The task and my comments](#the-task-and-my-comments)
--[Built with](#built-with)
--[Author](#author)
+- [Screenshot](#screenshot)
+- [Links](#links)
+- [The task and my comments](#the-task-and-my-comments)
+- [Built with](#built-with)
+- [Author](#author)
 
 ### Screenshot
 
@@ -16,7 +15,7 @@ The page was created as part of the [Front End Developer Course by Orange DC](ht
 
 ### Links
 
-[Solution URL](#)
+[Solution URL](https://axinitm.github.io/ODC-E-shop/)
 
 ### The task and my comments
 
