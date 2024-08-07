@@ -15,7 +15,7 @@ The page was created as part of the [Front End Developer Course by Orange DC](ht
 
 ### Links
 
-[Solution URL](https://axinitm.github.io/ODC-E-shop/)
+[E-Shop page URL](https://axinitm.github.io/ODC-E-shop/)
 
 ### The task and my comments
 
