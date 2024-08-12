@@ -1,4 +1,4 @@
-# E-shoes store (Front End Developer Course)
+# E-store (Front End Developer Course)
 
 The page was created as part of the [Front End Developer Course by Orange DC](https://digitalcenter.orange.md/).
 
